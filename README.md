@@ -1,3 +1,3 @@
 # TextPruner
 
-Under construction
+Under construction.
